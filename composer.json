@@ -1,0 +1,15 @@
+{
+    "name": "fed/plugins-css-element-queries",
+    "type": "ewma-module",
+    "description": "div media queries",
+    "authors": [
+        {
+            "name": "fed",
+            "email": "ewmafw@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fed/ewma-module-installer-plugin": "~0.0.1"
+    }
+}
